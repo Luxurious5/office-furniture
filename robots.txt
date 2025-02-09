@@ -1,0 +1,7 @@
+User-agent: ChatGPT-User
+Disallow: /
+User-agent: GPTBot
+Disallow: /
+User-agent: *
+Disallow:
+Sitemap: https://office-furniture-4cg8r.kinsta.page/sitemap.xml
